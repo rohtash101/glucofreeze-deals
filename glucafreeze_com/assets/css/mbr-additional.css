@@ -870,6 +870,7 @@ a {
 }
 .cid-tJkiqjPUPv .navbar {
   min-height: 70px;
+  width:100%;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
